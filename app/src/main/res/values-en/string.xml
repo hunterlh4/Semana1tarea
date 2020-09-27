@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">week1homework</string>
+    <string name="txtaltura">enter your height</string>
+    <string name="txtpeso">enter your weight</string>
+    <string name="txtimc">you Imc is: </string>
+    <string name="txtvalorimc">you Imc is: </string>
+    <string name="txtrecomendacion">recommendation </string>
+    <string name="btncalcular">calculate IMC</string>
+    <string name="btnvolver">return</string>
+
+    <string name="recomendacion1">thinness or underweight</string>
+    <string name="recomendacion2">Healthy weight</string>
+    <string name="recomendacion3">overweight</string>
+    <string name="recomendacion4">obesity</string>
+</resources>

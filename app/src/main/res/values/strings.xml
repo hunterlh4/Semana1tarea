@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Semana1tarea</string>
+    <string name="txtaltura">Ingrese su altura</string>
+    <string name="txtpeso">Ingrese su peso</string>
+    <string name="txtimc">Su Imc es: </string>
+    <string name="txtvalorimc">Su Imc es: </string>
+    <string name="txtrecomendacion">Recomendacion </string>
+    <string name="btncalcular">Calcular IMC</string>
+    <string name="btnvolver">Volver</string>
+
+    <string name="recomendacion1">delgadez o bajo peso</string>
+    <string name="recomendacion2">peso saludable</string>
+    <string name="recomendacion3">sobrepeso</string>
+    <string name="recomendacion4">obesidad</string>
+
+</resources>
